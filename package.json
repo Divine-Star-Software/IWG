@@ -1,0 +1,23 @@
+{
+  "name": "dve-plugins-iwg-dev",
+  "version": "0.0.0",
+  "description": "IWG is a infinite world generation plug-in for Divine Voxel Engine.",
+  "type": "module",
+  "main": "out/index.js",
+  "types": "out/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "url": "https://github.com/Divine-Star-Software/IWG"
+  },
+  "homepage": "https://github.com/Divine-Star-Software/IWG",
+  "author": "Divine Star Software",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^18.7.15"
+  },
+  "dependencies": {
+    "divine-voxel-engine": "^1.2.53"
+  }
+}
