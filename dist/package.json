@@ -1,6 +1,6 @@
 {
   "name": "dve-plugins-iwg",
-  "version": "0.0.41",
+  "version": "0.0.42",
   "description": "IWG is a infinite world generation plug-in for Divine Voxel Engine.",
   "type": "module",
   "main": "index.js",
